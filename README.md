@@ -1,11 +1,13 @@
 # Hangman 💚
+         
+         \|||/
+         (o o)
+------ooO-(_)-Ooo------
 
 * Hangman game in python !!
 
-                               \|||/
-                               (o o)
-                      ------ooO-(_)-Ooo------
-                            TU MENSAJE
+                               
+                            
 
 
 
